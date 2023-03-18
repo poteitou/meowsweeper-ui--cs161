@@ -1,7 +1,7 @@
 ### How to play
 
 - Download **Release** folder
-- Run **minesweeper.exe** and play
+- Run **Release/minesweeper.exe** and play
 - If you want to reset the game, clear data in the file **statistics.data** and insert **0**
 
 ### Demo video:
