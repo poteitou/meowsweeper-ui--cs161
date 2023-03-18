@@ -1,1 +1,0 @@
-If you want to reset statistics, clear data in the file "statistics.data" and insert "0"
